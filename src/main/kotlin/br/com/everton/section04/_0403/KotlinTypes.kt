@@ -1,4 +1,4 @@
-package br.com.everton.section04_0403
+package br.com.everton.section04._0403
 
 fun main() {
     val myPhrase = "I'm a String"
