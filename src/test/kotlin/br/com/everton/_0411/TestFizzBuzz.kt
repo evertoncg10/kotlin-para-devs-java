@@ -1,4 +1,4 @@
-package br.com.erudio._0411
+package br.com.everton._0411
 
 import br.com.erudio.section04._0412.fizzBuzz1
 import br.com.erudio.section04._0412.fizzBuzz2
