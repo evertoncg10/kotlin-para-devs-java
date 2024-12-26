@@ -10,6 +10,8 @@ repositories {
 }
 
 dependencies {
+    runtimeOnly("org.jetbrains.kotlin:kotlin-reflect:2.1.0")
+
     testImplementation(kotlin("test"))
     testImplementation ("org.junit.jupiter:junit-jupiter:5.11.4")
     testImplementation ("org.amshove.kluent:kluent:1.73")
