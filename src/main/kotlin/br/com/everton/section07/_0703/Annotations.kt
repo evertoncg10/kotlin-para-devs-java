@@ -1,4 +1,4 @@
-package br.com.everton.section7._0703
+package br.com.everton.section07._0703
 
 class Annotations {
     fun main() {

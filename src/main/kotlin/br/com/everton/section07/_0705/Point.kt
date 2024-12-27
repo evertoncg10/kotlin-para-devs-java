@@ -1,4 +1,4 @@
-package br.com.everton.section7._0705
+package br.com.everton.section07._0705
 
 class Point(var x: Int, var y: Int, var z: Int) {
 

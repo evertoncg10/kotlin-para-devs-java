@@ -1,4 +1,4 @@
-package br.com.everton.section7._0702
+package br.com.everton.section07._0702
 
 data class Coordinates(var x: Int, var y: Int) {
     operator fun plus(other: Coordinates): Coordinates {

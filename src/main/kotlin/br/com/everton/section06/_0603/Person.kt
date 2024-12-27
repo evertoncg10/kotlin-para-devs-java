@@ -1,4 +1,4 @@
-package br.com.everton.section6._0603
+package br.com.everton.section06._0603
 
 class Person internal constructor(var firstName: String, var lastName: String) {
 

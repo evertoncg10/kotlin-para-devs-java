@@ -1,4 +1,4 @@
-package br.com.everton.section6._0603;
+package br.com.everton.section06._0603;
 
 import br.com.everton.section05._0505.MaxKt;
 

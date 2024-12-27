@@ -1,4 +1,4 @@
-package br.com.everton.section7._0702
+package br.com.everton.section07._0702
 
 fun main() {
     val c1 = Coordinates(200, 100)

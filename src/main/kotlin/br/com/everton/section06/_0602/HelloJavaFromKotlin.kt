@@ -1,4 +1,4 @@
-package br.com.everton.section6._0602
+package br.com.everton.section06._0602
 
 fun main() {
     val cat = Animal("Garfield", "cat", 10)

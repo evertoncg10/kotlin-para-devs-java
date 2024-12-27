@@ -1,4 +1,4 @@
-package br.com.everton.section7._0704
+package br.com.everton.section07._0704
 
 @Deprecated("Use the Animal class instead", ReplaceWith("Animal"))
 class Person internal constructor(var firstName: String, var lastName: String) {

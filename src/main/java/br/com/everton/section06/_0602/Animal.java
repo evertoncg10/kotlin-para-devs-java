@@ -1,4 +1,4 @@
-package br.com.everton.section6._0602;
+package br.com.everton.section06._0602;
 
 public class Animal {
     private final String name;
